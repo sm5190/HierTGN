@@ -38,7 +38,7 @@ HierTKG consists of three key modules:
 3. **Output**  
    - The model outputs link predictions for downstream misinformation mitigation tasks.
 
-![HierTKG Framework](image.png)
+![HierTKG Framework](image.png.png)
 
 ## Algorithm
 The link prediction process in HierTKG follows these steps:
