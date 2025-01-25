@@ -76,11 +76,11 @@ HierTKG surpasses baseline models such as SPA (2022) and TLT-KGE (2022), which s
 
 ## Citation
 ```css
-@article{HierTKG2024,
-  author    = {Your Name},
-  title     = {HierTKG: Hierarchical Temporal Knowledge Graph for Rumor Detection},
-  year      = {2024},
-  journal   = {Arxiv},
+@article{almutairi2024enhancing,
+  title={Enhancing Temporal Link Prediction with HierTKG: A Hierarchical Temporal Knowledge Graph Framework},
+  author={Almutairi, Mariam and Aktas, Melike Yildiz and Wali, Nawar and Mitra, Shutonu and Zhou, Dawei},
+  journal={arXiv preprint arXiv:2412.12385},
+  year={2024}
 }
 ```
 ## Installation
